@@ -80,6 +80,7 @@ section{
     width: 22vw;
     border-radius: 10px;
   
+  
 }
 .heading{
     text-align: center;;
@@ -161,7 +162,7 @@ span{
 .about-img img{
     width: 22vw;
     border-radius: 10PX;
-  
+    margin-right: 100px;
     
 }
 .services h2{
